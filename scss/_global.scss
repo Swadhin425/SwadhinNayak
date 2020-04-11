@@ -1,5 +1,8 @@
 // Global styling for this template
 
+#about{
+  background-image: url("img/DSC_0226.jpg");
+}
 body {
   @include body-font;
   padding-top: 54px;
